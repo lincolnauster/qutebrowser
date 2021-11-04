@@ -3,6 +3,12 @@
 // A rendered version is available at:
 // https://github.com/qutebrowser/qutebrowser/blob/master/README.asciidoc
 
+note: this fork packages a dev environment in a Nix Flake. This is almost
+certainly broken, and probably not in a working state. Don't merge this or
+depend on this! It's just public on GH for feedback and monitoring, *not general
+use* --- once I figure out what I'm doing, I'll rebase all the commits into
+something coherent and remove this notice in the README.
+
 qutebrowser
 ===========
 
